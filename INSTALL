@@ -1,0 +1,9 @@
+Building Aricoin
+
+See doc/readme-qt.rst for instructions on building Aricoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Aricoin.
+
+See doc/build-*.txt for instructions on building Aricoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Aricoin.
