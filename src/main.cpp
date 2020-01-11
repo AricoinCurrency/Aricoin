@@ -969,8 +969,8 @@ unsigned int static DarkGravityWave3(const CBlockIndex* pindexLast, const CBlock
     BlockCreating = BlockCreating;
     int64 nActualTimespan = 0;
     int64 LastBlockTime = 0;
-    int64 PastBlocksMin = 24;
-    int64 PastBlocksMax = 24;
+    int64 PastBlocksMin = nInterval; // currently 30 for ARI
+    int64 PastBlocksMax = nInterval;
     int64 CountBlocks = 0;
     CBigNum PastDifficultyAverage;
     CBigNum PastDifficultyAveragePrev;
