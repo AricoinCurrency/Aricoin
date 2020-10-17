@@ -14,6 +14,9 @@ Aricoin is a digital P2P currency descended from Bitcoin, however, instead of us
 	- 50 minted block confirmations
 	- Total coins will be 322,649,400
 
+## AricoinConnect
+Our Chrome browser extension that acts as an interface between the entire web and Aricoin.
+Please install directly from Chrome https://chrome.google.com/webstore/detail/tip-any-website-with-aric/kfjnnemelmfjemjfknmjjdainancaiie
 
 
 ## Aricoin Links
